@@ -27,7 +27,7 @@ Aplicado para estilizar a interface, tornando-a mais agradável e responsiva.
 Utilizado para manipular o DOM, armazenar a lista de amigos e realizar o sorteio com **Math.random()** e **Math.floor()**.  
 
 ## 📂 Estrutura do Projeto 
-
+```
 📁 amigo-secreto/
   │
   ├── 📄 index.html        # Estrutura da página
@@ -39,7 +39,7 @@ Utilizado para manipular o DOM, armazenar a lista de amigos e realizar o sorteio
   ├── 📁 assets/           # Imagens e ícones usados no projeto
   │
   └── 📄 README.md         # Documentação do projeto
-
+```
 ## 🎲 Como Usar?  
 
 1️⃣ Clone o repositório:  
