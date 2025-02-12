@@ -28,7 +28,12 @@ Utilizado para manipular o DOM, armazenar a lista de amigos e realizar o sorteio
 
 ## 📂 Estrutura do Projeto 
 
-📁 amigo-secreto │── 📄 index.html # Estrutura da página │── 📄 style.css # Estilos da interface │── 📄 app.js # Código JavaScript com a lógica do sorteio │── 📁 assets # Imagens e ícones usados no projeto │── 📄 README.md # Documentação do projeto
+📁 amigo-secreto/
+├── 📄 index.html     # Estrutura da página
+├── 📄 style.css      # Estilos da interface
+├── 📄 app.js         # Código JavaScript com a lógica do sorteio
+├── 📁 assets/        # Imagens e ícones usados no projeto
+└── 📄 README.md      # Documentação do projeto
 
 ## 🎲 Como Usar?  
 
